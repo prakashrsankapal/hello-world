@@ -7,4 +7,5 @@ This repository is built step by step in the tutorial.
 
 It's now included steps for GITHUB
 
-added a new line
+added a new line1
+added a new line2
